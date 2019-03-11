@@ -7,18 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Danilo B. Medeiros</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>Vote Secrecy with Diverse Voters</title>
+      <link>/publication/apsa2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/apsa2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space and Time in the Relationship between Income Inequality and Legislative Polarization: Evidence from Brazil</title>
+      <link>/publication/abcp2018/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/abcp2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Origins and Impact of Informal Rules: The Brazilian Legislature in Comparative Perspective</title>
+      <link>/publication/gel2016/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/gel2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Coalitions Matter? Legislative success in the Brazilian Congress</title>
+      <link>/publication/apsa2015/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/apsa2015/</guid>
+      <description></description>
     </item>
     
   </channel>
