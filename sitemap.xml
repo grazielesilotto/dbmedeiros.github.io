@@ -4,7 +4,15 @@
     
     <url>
     
-      <loc>/talk/columbia2018/</loc>
+      <loc>https://dbmedeiros.github.io/publication/apsa2018/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://dbmedeiros.github.io/talk/columbia2018/</loc>
       <lastmod>2018-10-26T00:00:00-04:00</lastmod>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>https://dbmedeiros.github.io/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://dbmedeiros.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -28,15 +36,7 @@
     
     <url>
     
-      <loc>/publication/apsa2018/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/fgv2018/</loc>
+      <loc>https://dbmedeiros.github.io/talk/fgv2018/</loc>
       <lastmod>2018-08-16T00:00:00-04:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>/publication/abcp2018/</loc>
+      <loc>https://dbmedeiros.github.io/publication/abcp2018/</loc>
       <lastmod>2018-08-03T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,15 +52,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
+      <loc>https://dbmedeiros.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://dbmedeiros.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -76,7 +68,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://dbmedeiros.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -84,7 +76,7 @@
     
     <url>
     
-      <loc>/publication/gel2016/</loc>
+      <loc>https://dbmedeiros.github.io/publication/gel2016/</loc>
       <lastmod>2016-11-18T00:00:00-05:00</lastmod>
     </url>
     
@@ -92,7 +84,7 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
+      <loc>https://dbmedeiros.github.io/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -100,7 +92,7 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
+      <loc>https://dbmedeiros.github.io/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -108,7 +100,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://dbmedeiros.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
     </url>
     
@@ -116,7 +108,7 @@
     
     <url>
     
-      <loc>/publication/apsa2015/</loc>
+      <loc>https://dbmedeiros.github.io/publication/apsa2015/</loc>
       <lastmod>2015-09-03T00:00:00-04:00</lastmod>
     </url>
     
@@ -124,7 +116,7 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>https://dbmedeiros.github.io/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -132,7 +124,7 @@
     
     <url>
     
-      <loc>/publication/bookanc2009/</loc>
+      <loc>https://dbmedeiros.github.io/publication/bookanc2009/</loc>
       <lastmod>2009-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -140,8 +132,8 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <loc>https://dbmedeiros.github.io/publication_types/1/</loc>
+      <lastmod>2018-08-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -149,7 +141,16 @@
     
     <url>
     
-      <loc>/publication_types/6/</loc>
+      <loc>https://dbmedeiros.github.io/publication_types/2/</loc>
+      <lastmod>2019-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://dbmedeiros.github.io/publication_types/6/</loc>
       <lastmod>2009-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -158,7 +159,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://dbmedeiros.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -167,7 +168,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://dbmedeiros.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -175,7 +176,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://dbmedeiros.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -184,7 +185,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
+      <loc>https://dbmedeiros.github.io/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -193,7 +194,7 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
+      <loc>https://dbmedeiros.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -202,7 +203,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://dbmedeiros.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -211,8 +212,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <loc>https://dbmedeiros.github.io/publication_types/</loc>
+      <lastmod>2018-08-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,7 +221,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>https://dbmedeiros.github.io/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -229,7 +230,7 @@
     
     <url>
     
-      <loc>/tags/r-markdown/</loc>
+      <loc>https://dbmedeiros.github.io/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -238,7 +239,7 @@
     
     <url>
     
-      <loc>/slides/</loc>
+      <loc>https://dbmedeiros.github.io/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -246,14 +247,14 @@
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
+      <loc>https://dbmedeiros.github.io/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://dbmedeiros.github.io/tags/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -262,7 +263,7 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
+      <loc>https://dbmedeiros.github.io/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -271,7 +272,7 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
+      <loc>https://dbmedeiros.github.io/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
