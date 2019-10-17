@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Danilo B. Medeiros</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://dbmedeiros.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://dbmedeiros.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,16 +24,16 @@
     <item>
       <title></title>
       <link>https://dbmedeiros.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/about/</guid>
-      <description>I am a Ph.D. candidate in the Department of Politics at the University of Virginia. My research explores the relationship between income inequality and legislative behavior in Brazil with a comparative perspective. My project relies heavily on ideal point estimation and time-series cross-section methods.</description>
+      <description>I hold a PhD in Political Science from the University of Virginia and a MA in the same field from the University of Sao Paulo. My main line of research explores the responses offered by legislators to pressures from voters and party leaders. Through time-series cross-section analysis of legislative behavior in Brazil, I show that variation in the level ofincome inequality of the electoral support bases influences extremism in the legislature, as well as the position of party leaders.</description>
     </item>
     
     <item>
       <title>Academic</title>
       <link>https://dbmedeiros.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Skills</title>
       <link>https://dbmedeiros.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/skills/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Selected Publications</title>
       <link>https://dbmedeiros.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/publications_selected/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Publications</title>
       <link>https://dbmedeiros.github.io/home/publications/</link>
-      <pubDate>Thu, 11 Mar 2010 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/publications/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://dbmedeiros.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/talks_selected/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://dbmedeiros.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/talks/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://dbmedeiros.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/posts/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>Projects</title>
       <link>https://dbmedeiros.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/projects/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Teaching</title>
       <link>https://dbmedeiros.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -125,7 +125,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>https://dbmedeiros.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/tags/</guid>
       <description></description>
@@ -134,7 +134,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Search</title>
       <link>https://dbmedeiros.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/search/</guid>
       <description></description>
@@ -143,7 +143,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Contact</title>
       <link>https://dbmedeiros.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>https://dbmedeiros.github.io/home/contact/</guid>
       <description></description>
