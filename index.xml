@@ -2,29 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danilo B. Medeiros on Danilo B. Medeiros</title>
-    <link>https://dbmedeiros.github.io/</link>
+    <link>/</link>
     <description>Recent content in Danilo B. Medeiros on Danilo B. Medeiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Danilo B. Medeiros</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 -0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Vote Secrecy with Diverse Voters</title>
+      <link>/publication/apsa2018/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0300</pubDate>
+      
+      <guid>/publication/apsa2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What Next? Perspectives on Post-2018 Elections in Brazil</title>
-      <link>https://dbmedeiros.github.io/talk/columbia2018/</link>
+      <link>/talk/columbia2018/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/talk/columbia2018/</guid>
+      <guid>/talk/columbia2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>https://dbmedeiros.github.io/tutorial/example/</link>
+      <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/tutorial/example/</guid>
+      <guid>/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -41,46 +50,56 @@
     
     <item>
       <title>O Contexto da Constituinte de 1987-88</title>
-      <link>https://dbmedeiros.github.io/talk/fgv2018/</link>
+      <link>/talk/fgv2018/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/talk/fgv2018/</guid>
+      <guid>/talk/fgv2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space and Time in the Relationship between Income Inequality and Legislative Polarization: Evidence from Brazil</title>
-      <link>https://dbmedeiros.github.io/publication/abcp2018/</link>
+      <link>/publication/abcp2018/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/publication/abcp2018/</guid>
+      <guid>/publication/abcp2018/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Origins and Impact of Informal Rules: The Brazilian Legislature in Comparative Perspective</title>
-      <link>https://dbmedeiros.github.io/publication/gel2016/</link>
+      <link>/publication/gel2016/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/publication/gel2016/</guid>
+      <guid>/publication/gel2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://dbmedeiros.github.io/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://dbmedeiros.github.io/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -95,10 +114,10 @@
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://dbmedeiros.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -283,19 +302,19 @@ git submodule update --init --recursive
     
     <item>
       <title>Do Coalitions Matter? Legislative success in the Brazilian Congress</title>
-      <link>https://dbmedeiros.github.io/publication/apsa2015/</link>
+      <link>/publication/apsa2015/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/publication/apsa2015/</guid>
+      <guid>/publication/apsa2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://dbmedeiros.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://dbmedeiros.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -329,7 +348,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://dbmedeiros.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -340,19 +359,19 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Procurando o Centrão: Direita e Esquerda na Assembleia Nacional Constituinte 1987-88</title>
-      <link>https://dbmedeiros.github.io/publication/bookanc2009/</link>
+      <link>/publication/bookanc2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 -0300</pubDate>
       
-      <guid>https://dbmedeiros.github.io/publication/bookanc2009/</guid>
+      <guid>/publication/bookanc2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://dbmedeiros.github.io/slides/example-slides/</link>
+      <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dbmedeiros.github.io/slides/example-slides/</guid>
+      <guid>/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
